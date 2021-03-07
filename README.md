@@ -1,2 +1,2 @@
 # Booking-Management-System-Cplusplus
-This program is developed in C++ based on all the basics of language.
+#This code is developed by M.Nadir -This is an open source code for learning purpose. -This c++ program is based on all the basics of the language and user will have many functionalities like user registeration,userlogin, admin side, user side and games etc. -For further help or query regarding any sort of problem can contact me on contact given below. Contact info: Email: mohammadnadir189@gmail.com LinkedIn: www.linkedin.com/in/mohnadir Facebook: www.facebook.com/mnadirofficial Instagram: www.instagram.com/nadiir._
